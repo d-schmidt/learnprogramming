@@ -9,9 +9,9 @@ Programming might seem like magic to some people but it is not. Knowing how to t
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 > - Linus Torvalds
 
-I've learned programming at the age of ten, when my dad gave me a BASIC book. That was twenty years ago. It is still fun and I would like to share some of that fun. If you are willing to try it, I will show you how to get in.
+I've learned programming at the age of ten, when my dad gave me a [BASIC](https://en.wikipedia.org/wiki/BASIC) book. That was twenty years ago. It is still fun and I would like to share some of that fun. If you are willing to try it, I will show you how to get in.
 
 # Tutorials
-{% for post in site.pages %}
+{% for post in site.posts reversed %}
 1. [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
