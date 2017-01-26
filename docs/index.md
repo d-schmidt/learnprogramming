@@ -13,5 +13,5 @@ I've learned programming at the age of ten, when my dad gave me a BASIC book. Th
 
 # Tutorials
 {% for post in site.posts %}
-1. [{{ post.title }}]({{ site.url }}{{ post.url })
+1. [{{ post.title }}]({{ site.url }}{{ post.url }})
 {% endfor %}
