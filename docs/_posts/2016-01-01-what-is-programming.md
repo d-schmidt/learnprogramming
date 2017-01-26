@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: default
 title: "What is programming?"
 categories: tutorials
 ---
 
-## Programming
+# {{ page.title }}
 Programming is teaching computers to do stuff.
 Computers can do only very very few things. Because they are so dump, you need to to break problems down into parts so small the computer is able to understand them.
 
