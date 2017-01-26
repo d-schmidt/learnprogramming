@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What is programming?"
 categories: tutorials
 ---

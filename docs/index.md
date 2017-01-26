@@ -1,7 +1,7 @@
 ---
 title: Introduction
 ---
-## Introduction
+## {{ page.title }}
 
 Prograaming might seem like magic to some people but it is not. Knowing how to teach computers to do what you want them to do is a craft, which can be learned.
 
