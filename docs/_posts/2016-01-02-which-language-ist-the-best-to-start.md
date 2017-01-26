@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Which language is the best to start?"
+title: "Which prograaming language is the best to start?"
 categories: tutorials
 ---
 
 # {{ page.title }}
-Which language should I learn first?
+Which language should I learn first?  
 If you are asking these questions, I have **an** answer.
 
-There are dozens of high level languages in use today. Each language has some strong and weak points, each is commonly used to solve specific problems.
+There are dozens of high level languages in use today. Each language has some strong and weak points, each is commonly used to solve specific problems.  
 If you don't even know the basics of programming, it doesn't matter if you want to build apps, a website or just some tool to automate the boring stuff. Learning another language is easy, once you know the basics and know what to look for in the new language.
 
 ## Python 3
@@ -19,7 +19,7 @@ Yep that is it. We are going with Python 3 here. It is a powerful language, allo
 * Linux: `sudo apt-get install python3 python3-pip`
 
 ### Test It
-After installing it, open a command line/console and type in: `python` (linux: `python3`)
+After installing it, open a command line/console and type in: `python` (linux: `python3`)  
 It should look like this:
 
 ```
