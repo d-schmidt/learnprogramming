@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Which prograaming language is the best to start?"
+title: "Which programming language is the best to start?"
 categories: tutorials
 ---
 
