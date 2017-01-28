@@ -7,7 +7,8 @@ categories: tutorials
 # {{ page.title }}
 Which language should I learn first?  
 Where should I start?  
-How do I get started with programming?  
+How do I get started with programming?
+
 If you are asking these questions, I have **an** answer.
 
 There are dozens of high level languages in use today. Each language has some strong and weak points, each is commonly used to solve specific problems.  

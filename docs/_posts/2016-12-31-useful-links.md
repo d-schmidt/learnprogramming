@@ -15,6 +15,7 @@ A collection of links mentioned and used in these tutorials.
 * [documentation](https://docs.python.org/3/)
 
 ### Python Modules
+* [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [requests](http://docs.python-requests.org/en/master/)
 * [praw](https://github.com/praw-dev/praw)
 
