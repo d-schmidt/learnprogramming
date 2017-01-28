@@ -12,3 +12,4 @@ On the lowest level computers only know how to copy data around in memory, do ba
 For most problem we want computers to solve, writing [code this basic](https://en.wikipedia.org/wiki/Assembly_language) yourself would be slow and error prune. We use higher languages which hide these few instructions behind more complex, better readable and much more powerful constructs.
 
 ## Breaking down Problems
+{% include image.html url="/assets/images/LEGO_42055.jpg" description="Model 42055, ©2017 The LEGO Group" %}
