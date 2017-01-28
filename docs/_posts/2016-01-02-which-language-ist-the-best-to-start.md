@@ -42,5 +42,5 @@ You don't really need these, you could simply use the OS internal editors like N
 
 Lets start!
 
-{% include image.html url="{{ '/assets/images/LEGO_42055.jpg' | relative_url }}" description="Model 42055, ©2017 The LEGO Group" %}
+{% include image.html url="/assets/images/LEGO_42055.jpg" description="Model 42055, ©2017 The LEGO Group" %}
 
