@@ -6,7 +6,7 @@ categories: tutorials
 
 # {{ page.title }}
 {% include image.html url="/assets/images/LEGO_10696.jpg" description="Model 10696, ©The LEGO Group" %}
-To teach you the very basic we are building something similar beautiful: a calculator
+To teach you the very basics we are building something similar beautiful: a calculator
 
 Hang in, this will only take a few hours.
 
@@ -14,6 +14,7 @@ Before you start typing, sit back for a moment and think about, what you need to
 
 Now open the editor of you choice, create a new file and save it as `calculator.py`. Don't close the editor.  
 Try to run it using the build in run or open a console, [cd][l7] to your file and type in `python calculator.py`.
+
 ```
 i:\git\learnprogramming\examples>python calculator.py
 
@@ -26,6 +27,7 @@ Nothing happened. As expected. If you have any errors here, got back to install 
 Variables allow you to access some data in memory using a name. You are able to seat, read and overwrite these values.
 
 We want to add two numbers. Write the following to assign a value to `a` and `b`:
+
 ```python
 a = 12
 b = 30
@@ -33,6 +35,7 @@ b = 30
 
 ### Arithmetic Operations
 Python supports arithmetic operations. To calculate an addition and assign it to `answer` write this next:
+
 ```python
 answer = a + b
 ```
@@ -45,6 +48,7 @@ Before you continue, you have to learn about data types.
 Different values are stored differently in memory to improve efficiency and allow specific operations.
 
 The first two important types are:
+
 * [Numery Types][l5]  
   Python supports integers<sup>[[1]][l1][[2]][l2]</sup>, floating point numbers<sup>[[3]][l3]</sup>, and complex numbers. An integer is assigned to `a` and `b`.
 * [Text Sequence Type][l8]  
@@ -53,13 +57,16 @@ The first two important types are:
 ### Built-in Functions
 Luckily you don't have to write text output yourself anymore. Python has a lot of built-in functions to serve as simple blocks for your programs. We will use the [print][l4] function to convert the answer to string and print it in the console. <small>[Google][g1]</small>  
 The program should look like this now:
+
 ```python
 a = 12
 b = 30
 answer = a + b
 print(answer)
 ```
+
 If you run the program now, it shows you the answer:
+
 ```
 i:\git\learnprogramming\examples>python calculator.py
 42

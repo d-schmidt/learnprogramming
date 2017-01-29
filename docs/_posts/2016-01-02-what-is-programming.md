@@ -40,7 +40,8 @@ It might seem boring and simple, but if you are starting fresh, start small. You
 ### Training Algorithmic Thinking
 Being able abstract the project managers whish to be able login into the forum using Facebook into an algorithm and lines of code is something you can train. This does not require a programming language or reading any more chapters.
 
-There is a simple [exercise](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_improve_my_skill_to_convert_tasks.2Fproblems_into_programs_.28algorithmic_thinking.29.3F "/r/learnprogramming") to help you build this skill:
+There is a simple [exercise](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_improve_my_skill_to_convert_tasks.2Fproblems_into_programs_.28algorithmic_thinking.29.3F "/r/learnprogramming") to help you build this skill:  
+
 * Pick an activity that you do every day, like making breakfast or something similar. It should be not too easy, but also not too difficult.
 * Write down the steps that you should do for the activity, but do it out of memory in a different time to when you actually perform the activity. (Write the steps to make breakfast down in the afternoon.)
 * The next time you perform the activity take your notes and try to follow the steps religiously. Try not to deviate from your written down steps and if you have to, note the differences down.
@@ -49,6 +50,7 @@ There is a simple [exercise](https://www.reddit.com/r/learnprogramming/wiki/faq#
 
 I suggest splitting it into 3 parts. Split each of these parts again into 3.  
 Getting dressed:  
+
 * get clothes
   * open wardrobe
     * open door

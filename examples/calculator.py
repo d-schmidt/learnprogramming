@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
 
-anwer = 42
-print("hello world", answer)
+a = 12
+b = 30
+answer = a + b
+print(answer)
