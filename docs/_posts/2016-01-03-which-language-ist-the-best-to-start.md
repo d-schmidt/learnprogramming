@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Which programming language is the best to start?"
+title: "Intro: Which programming language is the best to start?" 
 categories: tutorials
 ---
 
@@ -22,7 +22,7 @@ Yep that is it. We are going with Python 3 here. It is a powerful language, incl
 * Linux: `sudo apt-get install python3 python3-pip`
 
 ### Test It
-After installing it, open a command line/console and type in: `python` (linux: `python3`)  
+After installing it, open a [command line](https://en.wikipedia.org/wiki/Command-line_interface) and type in: `python` (linux: `python3`)  
 It should look like this:
 
 ```
@@ -37,7 +37,7 @@ Now type `exit()` to leave Python.
 ### An Text Editor
 
 I suggest using [any](https://www.sublimetext.com/) [editor](https://notepad-plus-plus.org/) [supporting](https://atom.io/) [syntax](https://wiki.gnome.org/Apps/Gedit) [highlighting](http://ninja-ide.org/). Python ships with [idle](https://docs.python.org/3/library/idle.html) included, just start the `idle.pyw` (double-click or type `python idle.py`).  
-I prefer sublime, it allows to execute Python code directly (`Tools > Build`). This allows rapid development.
+I prefer sublime, liek most it allows to execute Python code directly (`Tools > Build`). This allows rapid development.
 
 You don't really need these, you could simply use the OS internal editors like Notepad.
 

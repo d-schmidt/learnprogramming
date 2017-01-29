@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+permalink: /:categories/:month/:day/:title.html
+
+timezone: Etc/UTC
