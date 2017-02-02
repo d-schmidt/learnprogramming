@@ -15,7 +15,7 @@ For most problems we want computers to solve for us, writing [code this basic](h
 There are a lot of reason people want to start programming. Some are in for fast money (Good luck!) but I think most of you have an idea they want to build.  
 Whatever your reasons are, wether you have to or want to tell a computer to solve a problem, you to split it into small problems.
 
-### LEGO™
+### Just like LEGO™
 Imagine you want to design this from scratch:  
 {% include image.html url="/assets/images/LEGO_42055.jpg" description="Model 42055, ©The LEGO Group" %}
 
@@ -38,7 +38,7 @@ This one seems simple enough. Only basic blocks are used. You should be able to 
 It might seem boring and simple, but if you are starting fresh, start small. You might skip forward in the tutorials if you already know some or all of the basic building blocks of programs.
 
 ### Training Algorithmic Thinking
-Being able abstract the project managers whish to be able login into the forum using Facebook into an algorithm and lines of code is something you can train. This does not require a programming language or reading any more chapters.
+Being able abstract the project managers whish to be able login to the forum using Facebook into an algorithm and lines of code is something you can train. This does not require a programming language or reading any more chapters.
 
 There is a simple [exercise](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_improve_my_skill_to_convert_tasks.2Fproblems_into_programs_.28algorithmic_thinking.29.3F "/r/learnprogramming") to help you build this skill:  
 
