@@ -34,12 +34,12 @@ b = 30
 ```
 
 ### Arithmetic Operations
-Python supports arithmetic operations. To calculate an addition and assign it to `answer` write this next:
+Python supports arithmetic operations. To read the values, calculate an addition and assign it to `answer` write this next:
 
 ```python
 answer = a + b
 ```
-The right-hand side is evaluated first before the assignments takes place. The right-hand side expressions are evaluated from the left to the right and following order of operations ([PEMDAS][l6]).
+The right-hand side is evaluated first before the assignments takes place. The right-hand side expressions are evaluated from the left to the right and following order of operations ([PEMDAS][l6]). The result is assigned to the left side.
 
 Run the programm again. Still nothing? Let's change that.
 
@@ -49,7 +49,7 @@ Different values are stored differently in memory to improve efficiency and allo
 
 The first two important types are:
 
-* [Numery Types][l5]  
+* [Numeric Types][l5]  
   Python supports integers<sup>[[1]][l1][[2]][l2]</sup>, floating point numbers<sup>[[3]][l3]</sup>, and complex numbers. An integer is assigned to `a` and `b`.
 * [Text Sequence Type][l8]  
   Commonly known as [Strings][l9]. This is readable, printable text.
@@ -77,7 +77,7 @@ It is working! That's it. You are now a programmer!
 Yes it is boring and not really useful, but that is easy to fix.
 
 The next step is to replace the hard-coded numbers and to add user input. <small>[Google][g2]</small>  
-The [input()][l10] function makes the program wait fo user input. It takes a `prompt` string paramter it will show when waiting.  
+The [input()][l10] function makes the program wait for user input. It takes a `prompt` string paramter it will show when waiting.  
 Call it with a `string` as prompt and assign the result to our variables:
 
 ```python
@@ -87,7 +87,7 @@ answer = a + b
 print(answer)
 ```
 
-It works, kindof:
+Run it and type two number pressing Enter in between. It works, kindof:
 
 ```
 i:\git\learnprogramming\examples>calculator.py
@@ -97,7 +97,7 @@ Number B?30
 i:\git\learnprogramming\examples>
 ```
 
-`input()` returns a string and not a number. We have to convert it to an `integer` using [int()][l11]. Assign the string return value from `input()` the paramter for `int()`. <small>[Google][g3]</small>
+`input()` returns a string and not a number. Python 'adds' strings by concatenating them. We have to convert them to an `integer` using [int()][l11]. Assign the string return value from `input()` the paramter for `int()`. You can do this directly by writing one function call inside another. You could also use more variables. <small>[Google][g3]</small>
 
 ```python
 a = int(input('Number A? '))
